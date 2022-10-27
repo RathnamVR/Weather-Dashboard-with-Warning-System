@@ -22,10 +22,13 @@ Used a dropdown list to choose the parameter and a slider to set the limit. (e.g
 temperature, 30 km for wind, etc.). When this limit is exceeded, a notification will appear
 as a warning displaying the current value of the parameter (e.g., Warning! Temperature is
 30◦C. Exceeds the limit by 5◦C)
-![alt text](
+
+![alt text](https://github.com/RathnamVR/Weather-Dashboard-with-Warning-System/blob/main/images/weather.PNG?raw=true)
 • Charts Tab<br/>
 
  There are charts that show the temperature, humidity, wind speed and pressure of the past hour.<br/>
+
+![alt text](https://github.com/RathnamVR/Weather-Dashboard-with-Warning-System/blob/main/images/charts.PNG?raw=true)
 
 • Settings Tab<br/>
 
@@ -33,6 +36,8 @@ The user is able to select whether the location is entered as i) coordinates or 
 and country.<br/>
 The user is able to change the refresh time (use numeric palette).<br/>
 A switch is used to turn the charts feature on and off.<br/>
+
+![alt text](https://github.com/RathnamVR/Weather-Dashboard-with-Warning-System/blob/main/images/settings.PNG?raw=true)
 
 
 Weather warning system part is implemented using a NodeMCU. Link the above dashboard to the NodeMCU via MQTT. 
