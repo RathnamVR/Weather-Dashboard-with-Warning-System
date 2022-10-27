@@ -35,7 +35,7 @@ The user is able to change the refresh time (use numeric palette).<br/>
 A switch is used to turn the charts feature on and off.<br/>
 
 
-Weather warning system part is implemented using a NodeMCU. Link the above dashboard to the NodeMCU via MQTT. The complete system is illustrated in Figure 1.
+Weather warning system part is implemented using a NodeMCU. Link the above dashboard to the NodeMCU via MQTT. 
 
 • The built-in LED of the node-MCU will blink in a warning situation. The threshold/limit for the
 warning situation is set as described in Part I.<br/>
