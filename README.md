@@ -22,7 +22,7 @@ Used a dropdown list to choose the parameter and a slider to set the limit. (e.g
 temperature, 30 km for wind, etc.). When this limit is exceeded, a notification will appear
 as a warning displaying the current value of the parameter (e.g., Warning! Temperature is
 30◦C. Exceeds the limit by 5◦C)
-
+![alt text](
 • Charts Tab<br/>
 
  There are charts that show the temperature, humidity, wind speed and pressure of the past hour.<br/>
