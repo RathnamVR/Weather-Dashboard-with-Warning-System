@@ -42,6 +42,8 @@ A switch is used to turn the charts feature on and off.<br/>
 
 Weather warning system part is implemented using a NodeMCU. Link the above dashboard to the NodeMCU via MQTT. 
 
+![alt text](https://github.com/RathnamVR/Weather-Dashboard-with-Warning-System/blob/main/images/overview.PNG?raw=true)
+
 • The built-in LED of the node-MCU will blink in a warning situation. The threshold/limit for the
 warning situation is set as described in Part I.<br/>
 • The blinking interval will change from 5s to 500ms according to the exceeded amount. For an example,
