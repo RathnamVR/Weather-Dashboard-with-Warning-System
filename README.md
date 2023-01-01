@@ -8,7 +8,7 @@ The dashboard have three main tabs:
 
 • Weather Tab<br/>
 
-The user is able to enter the location as i) coordinates or ii) city and country through
+The user is able to enter the location as coordinates or city and country through
 a text field(s) and submit.<br/>
 The title of the description section will be the location entered by the user. If coordinates
 are used to specify the location, retrieve the city using OpenWeather.<br/>
